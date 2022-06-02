@@ -8,6 +8,7 @@ const fs = require("fs");
 });
  */
 
-fs.writeFile("./index.js", "", () => {
+/* fs.writeFile("./index.js", "", () => {
   console.log("file written");
 });
+ */
